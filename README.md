@@ -19,3 +19,12 @@
 - [ ] **Phase 1**: Java 기초 문법 및 객체지향 개념 정리
 - [ ] **Phase 2**: 1학기 관통 프로젝트(Board CRUD) Java 포팅
 - [ ] **Phase 3**: 데이터베이스 연동 및 REST API 최적화
+
+### 📝 Daily Study Logs
+#### 2026-01-02
+- **Topic**: JSP 기초 문법 실습 및 System Dashboard 프로토타이핑
+- **Key Learnings**: 
+  - **JSP 지시자 정밀 설정**: `contentType` 세미콜론(`;`) 누락 리스크를 파악하고 인코딩 규격(UTF-8) 동기화 완료.
+  - **동적 데이터 출력**: `java.util.Date` 클래스를 활용해 서버 실시간 데이터를 웹 페이지에 렌더링하는 Scriptlet 문법 습득.
+  - **UI/UX 관점 적용**: 단순 텍스트 출력을 넘어, 시스템 가용성(Active)을 시각화하는 대시보드 형태의 기초 마크업 설계.
+  - **Python vs Java 비교**: Django Template 시스템과 JSP 스크립틀릿 간의 데이터 바인딩 방식 차이점 분석 시작.
