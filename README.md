@@ -21,6 +21,14 @@
 - [ ] **Phase 3**: 데이터베이스 연동 및 REST API 최적화
 
 ### 📝 Daily Study Logs
+
+#### 2026-01-03
+- **Topic**: 자취방(광주) 복귀 및 학습 환경 재정비
+- **Key Learnings**: 
+  - KTX 이동 시간을 활용하여 1학기 관통 프로젝트(Python 기반)의 핵심 비즈니스 로직 복기.
+  - Java 마이그레이션 시 데이터 모델링(Entity 설계)의 우선순위 재설정.
+  - 자취방 복귀 후 원활한 Java/Spring Boot 실습을 위한 로컬 개발 환경 점검 및 컨디션 관리.
+  
 #### 2026-01-02
 - **Topic**: JSP 기초 문법 실습 및 System Dashboard 프로토타이핑
 - **Key Learnings**: 
