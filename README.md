@@ -22,6 +22,13 @@
 
 ### 📝 Daily Study Logs
 
+#### 2026-01-05
+- **Topic**: SSAFY 2학기 시작 대비 및 학습 마인드셋 정립
+- **Key Learnings**: 
+  - 2학기 프로젝트 단계 진입 전, 1학기 Python 트랙의 강점을 Java 스택에 이식하기 위한 기술 로드맵 재검토.
+  - 개발 환경(IDE, SDK, Docker 등) 최종 빌드 테스트 및 Git 전략(Branch 관리) 수립.
+  - **Goal**: "서비스디자인공학의 UX 마인드를 갖춘 Java 백엔드 개발자"로서의 성장을 위한 준비 완료.
+
 #### 2026-01-04
 - **Topic**: 주간 학습 계획 수립 및 컨디션 관리
 - **Key Learnings**: 
